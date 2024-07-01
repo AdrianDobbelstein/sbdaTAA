@@ -1,0 +1,1 @@
+# Structure-based Domain Annotation of Trimeric Autotransporter Adhesins
